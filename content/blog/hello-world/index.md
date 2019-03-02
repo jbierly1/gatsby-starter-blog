@@ -1,6 +1,6 @@
 ---
 title: Labs Week 1
-date: "2017-03-02"
+date: "March 02, 2019"
 ---
 
 This is my first post on my new NOT fake blog! How exciting!
